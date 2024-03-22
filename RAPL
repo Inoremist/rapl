@@ -1,0 +1,2 @@
+# Read energy via Intel RAPL for PKG 0 (energy for all cpu cores)
+sudo cat /sys/class/powercap/intel-rapl/intel-rapl\:0/energy_uj 
