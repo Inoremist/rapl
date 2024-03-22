@@ -5,3 +5,8 @@ sudo cat /sys/class/powercap/intel-rapl/intel-rapl\:0/energy_uj
  /sys/class/powercap/intel-rapl/intel-rapl:1/energy_uj 
 
  One can use the sum of package-0 and the SoC energy as the total system energy for the Linux laptop.
+
+Source: Energy-Efcient Computation Ofoading With
+DVFS Using Deep Reinforcement Learning
+for Time-Critical IoT Applications
+in Edge Computing
